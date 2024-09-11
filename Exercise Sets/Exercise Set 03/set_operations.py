@@ -19,4 +19,3 @@ print (f"set2 ^ set1 = ",symmetric_difference1)
 print("SET INTERSECTION")
 print (f"set1 & set2 = ",set_interesection)
 print (f"set2 & set1 = ",set_interesection1)
-
