@@ -1,8 +1,8 @@
 from Capybara import Capybara
 
 capybara1 = Capybara("Biscoff", "M", 5)
-capybara2 = Capybara("Churro", "F", 3)
-capybara3 = Capybara("Cinnamon", "M", 7)
+capybara2 = Capybara("Churro", "F", 4)
+capybara3 = Capybara("Cinnamon", "M", 3)
 
 capybaras = [capybara1, capybara2, capybara3]
 
